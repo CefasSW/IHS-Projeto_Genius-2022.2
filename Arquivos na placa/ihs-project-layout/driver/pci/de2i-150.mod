@@ -1,2 +1,0 @@
-/home/de2i-150/Documentos/ihs-project-layout/ihs-project-layout/driver/pci/de2i-150.o
-
